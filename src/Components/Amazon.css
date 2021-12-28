@@ -1,0 +1,14 @@
+.amzn {
+  position: absolute;
+  top: 120px;
+}
+
+.amzn2 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+}
+
+.amazon {
+  display: flex;
+}

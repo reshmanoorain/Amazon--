@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  justify-content: space-evenly;
+  text-align: center;
+}
+h1 {
+  font-size: 19px;
+  float: left;
+  padding-left: 10px;
+}
+input {
+  margin-top: 10px;
+  padding-left: 900px;
+}
+.amzn {
+  position: absolute;
+  left: 6100px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  justify-content: space-evenly;
+  display: flex;
+}
+
+.amzn2 {
+  justify-content: space-evenly;
+  position: absolute;
+  top: 1300px;
+  right: 0px;
+  left: -6200px;
+  bottom: 0px;
+  display: flex;
+}

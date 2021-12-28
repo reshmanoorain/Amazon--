@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  list-style-type: none;
+}
+
+.list {
+  list-style-type: none;
+}
+
+.header {
+  margin: 40px;
+}
